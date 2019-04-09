@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    font-family: 'VT323', monospace;
+    font-size: 60px;
+    color: #E1E9E9;
+    text-align: center;
+}
+
+#box{
+   color:  #E1E9E9;
+   width: auto;
+   height: auto;
+   text-align: center;
+   background-color: rgba(255, 255, 255, 0.393);
+   box-shadow: 0 0 8px whitesmoke;
+   border-radius: 3%;
+   font-family: 'Maven Pro', monospace;
+   font-size: 18px;
+   text-shadow: 2px 2px 4px #000000;
+   transition: 400ms all;
+}
+
+#button{
+    color: rgb(36, 36, 36);
+    background-color: #D0CCD0;
+    box-shadow: 0 0 10px whitesmoke;
+    font-family: 'Maven Pro', monospace;
+    font-size: 18px;
+    transition: 200ms all;
+}
+
+#button:hover{
+    background-color: white;
+}
+
+
